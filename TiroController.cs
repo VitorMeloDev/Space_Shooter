@@ -49,7 +49,6 @@ public class TiroController : MonoBehaviour
     {  
         
 
-        // É NOIS
 
         
     }
