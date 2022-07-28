@@ -51,5 +51,6 @@ public class TiroController : MonoBehaviour
 
         //Adicionando Mecanica
         
+        //Saindo pro almoço
     }
 }
